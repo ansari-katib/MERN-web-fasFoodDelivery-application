@@ -43,26 +43,26 @@ The application allows users to explore different food categories, view detailed
 
 To run this project locally, follow these steps:
 
-1. ** Clone the repository:**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/ansari-katib/MERN-web-fasFoodDelivery-application.gi
 
-2. ** Navigate to the project directory:**
+2. **Navigate to the project directory:**
    ```bash
    cd MERN-web-fasFoodDelivery-application
   
-3. ** Install dependencies for both frontend and backend:**
+3. **Install dependencies for both frontend and backend:**
 - Navigate to the backend folder and install server dependencies:
    ```bash
    cd backend
    npm install  
 
-4. ** Then, navigate to the frontend folder and install client dependencies:**
+4. **Then, navigate to the frontend folder and install client dependencies:**
    ```bash
    cd ../frontend
    npm install
 
-5. ** Start the development servers:**
+5. **Start the development servers:**
    ```bash
    cd backend
    npm start
